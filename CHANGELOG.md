@@ -10,7 +10,9 @@ Note: In this file, do not use the hard wrap in the middle of a sentence for com
 
 ## [Unreleased]
 
-- Update `parse-changelog` to 0.6.12.
+- Enable [release immutability](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/immutable-releases).
+
+- Update `parse-changelog` to 0.6.15.
 
 ## [1.9.1] - 2025-03-29
 
