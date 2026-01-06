@@ -10,6 +10,8 @@ Note: In this file, do not use the hard wrap in the middle of a sentence for com
 
 ## [Unreleased]
 
+## [1.9.2] - 2026-01-06
+
 - Enable [release immutability](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/immutable-releases).
 
 - Update `parse-changelog` to 0.6.15.
@@ -132,7 +134,8 @@ Note: In this file, do not use the hard wrap in the middle of a sentence for com
 
 Initial release
 
-[Unreleased]: https://github.com/taiki-e/create-gh-release-action/compare/v1.9.1...HEAD
+[Unreleased]: https://github.com/taiki-e/create-gh-release-action/compare/v1.9.2...HEAD
+[1.9.2]: https://github.com/taiki-e/create-gh-release-action/compare/v1.9.1...v1.9.2
 [1.9.1]: https://github.com/taiki-e/create-gh-release-action/compare/v1.8.4...v1.9.1
 [1.8.4]: https://github.com/taiki-e/create-gh-release-action/compare/v1.8.3...v1.8.4
 [1.8.3]: https://github.com/taiki-e/create-gh-release-action/compare/v1.8.2...v1.8.3
